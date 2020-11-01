@@ -1,5 +1,7 @@
 # Eclipse project folder
 .settings/
+.history/
+hanlp.code-workspace
 
 *.class
 
